@@ -1,1 +1,1 @@
-CODSOFT Task _3 tictacktoe Game.
+CODSOFT Task _3 tic-tac-toe Game.
